@@ -1,0 +1,6 @@
+{
+  "name": "Nummu & Shaisuu — Our Forever Story",
+  "description": "A private digital love journal and milestone tracker for Mohammed Numaan Ali (Nummu) and Shaistah Khan (Shaisuu).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
